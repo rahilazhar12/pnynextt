@@ -10,7 +10,7 @@ import {
   DropdownMenuLabel,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "@/components/ui/dropdown-menu"; // Ensure this path and export are correct
+} from "@/Components/ui/dropdown-menu"; // Ensure this path and export are correct
 
 const CategoryDropdown = () => {
   const [categories, setCategories] = useState([]);
